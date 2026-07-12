@@ -34,5 +34,5 @@ ps-inventory - https://github.com/Project-Sloth/ps-inventory
 It's not about the money. But if you feel like contributing, you could always buy me a Ko-fi ([https://ko-fi.com/arthiis](https://ko-fi.com/kyronarthiis))
 
 10. With your examples, the script doesn't work. What have I done wrong?<br>
-You also need to add the image of the item, I personally use - https://github.com/bitc0de/fivem-items-gallery/tree/main/images <br>add the images into ps-inventory/html/images  <br><br>
+You also need to add the image of the item, I personally use - https://github.com/bitc0de/fivem-items-gallery/tree/main/images <br>add the images into ps-inventory/html/images  <br>
 You will also need to add something like <br>"apple = { name = 'apple', label = 'Apple', weight = 100, type = 'item', image = 'apple.png', unique = false, useable = true, shouldClose = false, description = 'An apple'  }, " <br>to qb-core/shared/items.lua
