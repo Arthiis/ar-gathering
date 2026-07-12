@@ -27,7 +27,7 @@ No.
 I mean... maybe? if the demand requires it?
 
 7. Do I need any other scripts like ox_lib to run this? <br>
-ox_target - https://github.com/overextended/ox_target
+ox_target - https://github.com/overextended/ox_target<br>
 ps-inventory - https://github.com/Project-Sloth/ps-inventory
 
 9. Why is it free? <br>
