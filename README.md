@@ -18,7 +18,7 @@ No
 No
 
 4. What do I need?<bR>
-This script uses QBCore and QB-Targeting, it uses ps-inventory (https://github.com/Project-Sloth/ps-inventory) and highly recommend it. <br>
+This script uses QBCore and ox_target, it uses ps-inventory (https://github.com/Project-Sloth/ps-inventory) and highly recommend it. <br>
 
 5. Will this work with other inventory scripts / targeting scripts? <br>
 No.
@@ -27,7 +27,7 @@ No.
 I mean... maybe? if the demand requires it?
 
 7. Do I need any other scripts like ox_lib to run this? <br>
-Not to my knoweldge.
+ox_target - https://github.com/overextended/ox_target
 
 8. Why is it free? <br>
 It's not about the money. But if you feel like contributing, you could always buy me a Ko-fi ([https://ko-fi.com/arthiis](https://ko-fi.com/kyronarthiis))
